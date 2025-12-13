@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SharedKernel.Domain.Primitives
+{
+    public abstract class ValueObject
+    {
+        protected abstract IEnumerable<object?> GetEqualityComponents();
+
+        public override bool Equals(object? obj)
+        {
+            if (obj is not ValueObject other) return false;
+            return GetEqualityComponents().SequenceEqual(other.GetEqualityComponents());
+        }
+
+        public override int GetHashCode()
+            => GetEqualityComponents()
+                .Aggregate(1, (current, obj) =>
+                    HashCode.Combine(current, obj?.GetHashCode() ?? 0));
+    }
+}
