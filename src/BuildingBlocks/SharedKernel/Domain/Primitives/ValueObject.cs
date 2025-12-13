@@ -10,15 +10,32 @@ namespace SharedKernel.Domain.Primitives
     {
         protected abstract IEnumerable<object?> GetEqualityComponents();
 
-        public override bool Equals(object? obj)
+        public sealed override bool Equals(object? obj)
         {
-            if (obj is not ValueObject other) return false;
-            return GetEqualityComponents().SequenceEqual(other.GetEqualityComponents());
+            if (obj is null) return false;
+            if (ReferenceEquals(this, obj)) return true;
+            if (obj.GetType() != GetType()) return false;
+
+            var other = (ValueObject)obj;
+
+            return GetEqualityComponents()
+                .SequenceEqual(other.GetEqualityComponents());
         }
 
-        public override int GetHashCode()
-            => GetEqualityComponents()
-                .Aggregate(1, (current, obj) =>
-                    HashCode.Combine(current, obj?.GetHashCode() ?? 0));
+        public sealed override int GetHashCode()
+        {
+            var hash = new HashCode();
+
+            foreach (var component in GetEqualityComponents())
+                hash.Add(component);
+
+            return hash.ToHashCode();
+        }
+
+        public static bool operator ==(ValueObject? a, ValueObject? b)
+            => a is null ? b is null : a.Equals(b);
+
+        public static bool operator !=(ValueObject? a, ValueObject? b)
+            => !(a == b);
     }
 }

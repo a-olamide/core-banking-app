@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SharedKernel.Domain.Events
 {
-    internal class IDomainEvent
+    public interface IDomainEvent
     {
+        DateTimeOffset OccurredOn { get; }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SharedKernel.Domain.Primitives
 {
-    internal class AggregateRoot
+    public abstract class AggregateRoot<TId> : Entity<TId>, IAggregateRoot
     {
     }
 }

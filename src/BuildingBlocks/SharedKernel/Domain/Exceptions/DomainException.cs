@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace SharedKernel.Domain.Exceptions
 {
-    internal class DomainException
+    public class DomainException : Exception
     {
+        public string ErrorCode { get; }
+
+        public DomainException(string errorCode, string? message = null)
+            : base(message ?? errorCode)
+        {
+            ErrorCode = errorCode;
+        }
     }
 }

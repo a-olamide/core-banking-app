@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\Projects\\CoreBanking.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\primitives\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\messaging\\integrationevents\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\messaging\\integrationevents\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Projects\\CoreBanking.net\\Directory.Build.props||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -54,128 +66,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Messaging\\IntegrationEvents\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Messaging\\IntegrationEvents\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Messaging\\IntegrationEvents\\IntegrationEvent.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Messaging\\IntegrationEvents\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:20:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\IAggregateRoot.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:18:58.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Money.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Money.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Money.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Money.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Money.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:10:31.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Address.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Address.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Address.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:10:21.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "PhoneNumber.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:10:13.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:10:06.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonName.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T06:09:58.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T06:09:30.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AggregateRoot.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T06:08:33.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:07:55.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:16:00.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ValueObject.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T05:59:20.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:08:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonName.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:09:58.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:09:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Directory.Build.props",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\Directory.Build.props",
               "RelativeDocumentMoniker": "Directory.Build.props",
@@ -188,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Directory.Packages.props",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\Directory.Packages.props",
               "RelativeDocumentMoniker": "Directory.Packages.props",
