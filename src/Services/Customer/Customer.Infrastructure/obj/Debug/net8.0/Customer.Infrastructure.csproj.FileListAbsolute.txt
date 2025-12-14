@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastructure.deps.json
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastructure.pdb
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\refint\Customer.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.pdb
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\ref\Customer.Infrastructure.dll

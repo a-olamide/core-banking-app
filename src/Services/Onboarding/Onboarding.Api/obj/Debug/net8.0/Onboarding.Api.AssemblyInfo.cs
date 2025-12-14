@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("df4b555b-4ab8-4478-8390-9fd6fc575cfe")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("cc7ed9f7-7c90-4454-b3a3-06fd2b7623f6")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Onboarding.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37921023011334a814c3e12a7f1e4043f12ac20a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a1fabf8c3e894bcd614f47964a14a50783d055")]
 [assembly: System.Reflection.AssemblyProductAttribute("Onboarding.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Onboarding.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

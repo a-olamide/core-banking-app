@@ -12,10 +12,12 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Onboarding.Api/Onboarding.Api.csproj", "Onboarding.Api/"]
-RUN dotnet restore "./Onboarding.Api/Onboarding.Api.csproj"
+COPY ["Directory.Packages.props", "."]
+COPY ["Directory.Build.props", "."]
+COPY ["src/Services/Onboarding/Onboarding.Api/Onboarding.Api.csproj", "src/Services/Onboarding/Onboarding.Api/"]
+RUN dotnet restore "./src/Services/Onboarding/Onboarding.Api/Onboarding.Api.csproj"
 COPY . .
-WORKDIR "/src/Onboarding.Api"
+WORKDIR "/src/src/Services/Onboarding/Onboarding.Api"
 RUN dotnet build "./Onboarding.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage

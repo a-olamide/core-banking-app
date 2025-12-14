@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\bin\Debug\net8.0\Query.Domain.deps.json
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\bin\Debug\net8.0\Query.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\bin\Debug\net8.0\Query.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\refint\Query.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\Query.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Domain\obj\Debug\net8.0\ref\Query.Domain.dll

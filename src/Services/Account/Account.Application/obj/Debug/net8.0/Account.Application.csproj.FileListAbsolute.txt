@@ -1,0 +1,16 @@
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\bin\Debug\net8.0\Account.Application.deps.json
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\bin\Debug\net8.0\Account.Application.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\bin\Debug\net8.0\Account.Application.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\bin\Debug\net8.0\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\bin\Debug\net8.0\SharedKernel.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.csproj.AssemblyReference.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account..4D01FDE4.Up2Date
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\refint\Account.Application.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\Account.Application.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Application\obj\Debug\net8.0\ref\Account.Application.dll

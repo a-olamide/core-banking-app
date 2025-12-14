@@ -1,0 +1,16 @@
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\Account.Domain.deps.json
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\Account.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\Account.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\SharedKernel.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.csproj.AssemblyReference.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account..E84285CB.Up2Date
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\refint\Account.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\ref\Account.Domain.dll

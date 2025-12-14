@@ -12,10 +12,12 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Query.Api/Query.Api.csproj", "Query.Api/"]
-RUN dotnet restore "./Query.Api/Query.Api.csproj"
+COPY ["Directory.Packages.props", "."]
+COPY ["Directory.Build.props", "."]
+COPY ["src/Services/Query/Query.Api/Query.Api.csproj", "src/Services/Query/Query.Api/"]
+RUN dotnet restore "./src/Services/Query/Query.Api/Query.Api.csproj"
 COPY . .
-WORKDIR "/src/Query.Api"
+WORKDIR "/src/src/Services/Query/Query.Api"
 RUN dotnet build "./Query.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage

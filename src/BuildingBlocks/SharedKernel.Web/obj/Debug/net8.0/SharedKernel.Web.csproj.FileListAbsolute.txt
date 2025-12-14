@@ -1,0 +1,16 @@
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.csproj.AssemblyReference.cache
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.sourcelink.json
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\bin\Debug\net8.0\SharedKernel.Web.deps.json
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\bin\Debug\net8.0\SharedKernel.Web.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\bin\Debug\net8.0\SharedKernel.Web.pdb
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\bin\Debug\net8.0\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\bin\Debug\net8.0\SharedKernel.pdb
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKe.6CDF47C8.Up2Date
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\refint\SharedKernel.Web.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\SharedKernel.Web.pdb
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel.Web\obj\Debug\net8.0\ref\SharedKernel.Web.dll

@@ -12,10 +12,12 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Account.Api/Account.Api.csproj", "Account.Api/"]
-RUN dotnet restore "./Account.Api/Account.Api.csproj"
+COPY ["Directory.Packages.props", "."]
+COPY ["Directory.Build.props", "."]
+COPY ["src/Services/Account/Account.Api/Account.Api.csproj", "src/Services/Account/Account.Api/"]
+RUN dotnet restore "./src/Services/Account/Account.Api/Account.Api.csproj"
 COPY . .
-WORKDIR "/src/Account.Api"
+WORKDIR "/src/src/Services/Account/Account.Api"
 RUN dotnet build "./Account.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage

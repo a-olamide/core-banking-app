@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\bin\Debug\net8.0\Account.Infrastructure.deps.json
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\bin\Debug\net8.0\Account.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\bin\Debug\net8.0\Account.Infrastructure.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\refint\Account.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\Account.Infrastructure.pdb
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Infrastructure\obj\Debug\net8.0\ref\Account.Infrastructure.dll

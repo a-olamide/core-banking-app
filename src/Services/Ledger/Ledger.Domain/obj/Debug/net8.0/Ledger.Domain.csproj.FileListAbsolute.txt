@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\bin\Debug\net8.0\Ledger.Domain.deps.json
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\bin\Debug\net8.0\Ledger.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\bin\Debug\net8.0\Ledger.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\refint\Ledger.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\Ledger.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Ledger\Ledger.Domain\obj\Debug\net8.0\ref\Ledger.Domain.dll

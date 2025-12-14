@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\bin\Debug\net8.0\Onboarding.Domain.deps.json
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\bin\Debug\net8.0\Onboarding.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\bin\Debug\net8.0\Onboarding.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\refint\Onboarding.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\Onboarding.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Onboarding\Onboarding.Domain\obj\Debug\net8.0\ref\Onboarding.Domain.dll

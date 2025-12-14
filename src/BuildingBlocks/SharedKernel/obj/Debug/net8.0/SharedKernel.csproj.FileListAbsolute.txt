@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.sourcelink.json
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+C:\Projects\CoreBanking.net\src\BuildingBlocks\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll

@@ -1,4 +1,6 @@
 
+using SharedKernel.Web.Api;
+
 namespace Account.Api
 {
     public class Program
@@ -6,6 +8,7 @@ namespace Account.Api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddTransient<ExceptionHandlingMiddleware>();
 
             // Add services to the container.
 
@@ -15,7 +18,7 @@ namespace Account.Api
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
-
+            app.UseMiddleware<ExceptionHandlingMiddleware>();
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {

@@ -1,0 +1,12 @@
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\bin\Debug\net8.0\Query.Infrastructure.deps.json
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\bin\Debug\net8.0\Query.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\bin\Debug\net8.0\Query.Infrastructure.pdb
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.AssemblyInfo.cs
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.sourcelink.json
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\refint\Query.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\Query.Infrastructure.pdb
+C:\Projects\CoreBanking.net\src\Services\Query\Query.Infrastructure\obj\Debug\net8.0\ref\Query.Infrastructure.dll

@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("3890726b-df5c-4947-95d5-a02f2bd907e8")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("86daa564-0f25-43b8-b83f-d85ec9ef98dd")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ledger.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37921023011334a814c3e12a7f1e4043f12ac20a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a1fabf8c3e894bcd614f47964a14a50783d055")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ledger.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ledger.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,14 +2,15 @@
   <PropertyGroup>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
-
   <!-- Core framework & tooling -->
   <ItemGroup>
+    <PackageVersion Include="MediatR" Version="14.0.0" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0" />
     <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="8.1.4" />
   </ItemGroup>
-
   <!-- Observability -->
   <ItemGroup>
     <PackageVersion Include="Serilog.AspNetCore" Version="8.0.0" />
@@ -17,11 +18,10 @@
     <PackageVersion Include="Serilog.Sinks.Seq" Version="5.2.2" />
     <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.8.0" />
   </ItemGroup>
-
   <!-- Validation & Mediation -->
   <ItemGroup>
     <PackageVersion Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="12.1.1" />
-    <PackageVersion Include="FluentValidation" Version="11.8.0" />
+    <PackageVersion Include="FluentValidation" Version="12.1.1" />
     <PackageVersion Include="FluentValidation.DependencyInjectionExtensions" Version="11.8.0" />
   </ItemGroup>
 </Project>

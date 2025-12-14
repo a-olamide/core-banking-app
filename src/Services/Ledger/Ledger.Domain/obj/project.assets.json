@@ -61,16 +61,19 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "centralPackageVersions": {
-          "FluentValidation": "11.8.0",
+          "FluentValidation": "12.1.1",
           "FluentValidation.DependencyInjectionExtensions": "11.8.0",
+          "MediatR": "14.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
           "OpenTelemetry.Extensions.Hosting": "1.8.0",
           "Serilog.AspNetCore": "8.0.0",
           "Serilog.Sinks.Console": "5.0.1",
-          "Serilog.Sinks.Seq": "5.2.2"
+          "Serilog.Sinks.Seq": "5.2.2",
+          "Swashbuckle.AspNetCore": "8.1.4"
         },
         "imports": [
           "net461",

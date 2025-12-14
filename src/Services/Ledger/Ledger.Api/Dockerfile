@@ -12,10 +12,12 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Ledger.Api/Ledger.Api.csproj", "Ledger.Api/"]
-RUN dotnet restore "./Ledger.Api/Ledger.Api.csproj"
+COPY ["Directory.Packages.props", "."]
+COPY ["Directory.Build.props", "."]
+COPY ["src/Services/Ledger/Ledger.Api/Ledger.Api.csproj", "src/Services/Ledger/Ledger.Api/"]
+RUN dotnet restore "./src/Services/Ledger/Ledger.Api/Ledger.Api.csproj"
 COPY . .
-WORKDIR "/src/Ledger.Api"
+WORKDIR "/src/src/Services/Ledger/Ledger.Api"
 RUN dotnet build "./Ledger.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage
