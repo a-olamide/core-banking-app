@@ -51,3 +51,4 @@ namespace Customer.Api
         }
     }
 }
+public partial class Program { }

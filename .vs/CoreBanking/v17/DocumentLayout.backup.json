@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Projects\\CoreBanking.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F63A72E6-9FB9-4422-AF84-4FA81A725823}|tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj|c:\\projects\\corebanking.net\\tests\\customer\\customer.application.unittests\\common\\behaviors\\validationbehaviortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63A72E6-9FB9-4422-AF84-4FA81A725823}|tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj|solutionrelative:tests\\customer\\customer.application.unittests\\common\\behaviors\\validationbehaviortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}|tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj|c:\\projects\\corebanking.net\\tests\\customer\\customer.api.integrationtests\\controllers\\customerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}|tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj|solutionrelative:tests\\customer\\customer.api.integrationtests\\controllers\\customerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}|tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj|c:\\projects\\corebanking.net\\tests\\customer\\customer.api.integrationtests\\customer.api.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}|tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj|solutionrelative:tests\\customer\\customer.api.integrationtests\\customer.api.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.api\\devonly\\inmemorycustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer\\customer.api\\devonly\\inmemorycustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Projects\\CoreBanking.net\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63A72E6-9FB9-4422-AF84-4FA81A725823}|tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj|c:\\projects\\corebanking.net\\tests\\customer\\customer.application.unittests\\customer.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F63A72E6-9FB9-4422-AF84-4FA81A725823}|tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj|solutionrelative:tests\\customer\\customer.application.unittests\\customer.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63A72E6-9FB9-4422-AF84-4FA81A725823}|tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj|c:\\projects\\corebanking.net\\tests\\customer\\customer.application.unittests\\customers\\commands\\createcustomercommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63A72E6-9FB9-4422-AF84-4FA81A725823}|tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj|solutionrelative:tests\\customer\\customer.application.unittests\\customers\\commands\\createcustomercommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.application\\customers\\command\\createcustomer\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|solutionrelative:src\\services\\customer\\customer.application\\customers\\command\\createcustomer\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.application\\customers\\command\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|solutionrelative:src\\services\\customer\\customer.application\\customers\\command\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3899D681-6C76-4D4A-AEC2-17793F519874}|src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.domain\\customers\\domainevents\\customercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3899D681-6C76-4D4A-AEC2-17793F519874}|src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj|solutionrelative:src\\services\\customer\\customer.domain\\customers\\domainevents\\customercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.api\\devonly\\inmemorycustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer\\customer.api\\devonly\\inmemorycustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|solutionrelative:src\\services\\customer\\customer.application\\abstractions\\persistence\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.application\\customers\\command\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|solutionrelative:src\\services\\customer\\customer.application\\customers\\command\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.api\\contracts\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer\\customer.api\\contracts\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3899D681-6C76-4D4A-AEC2-17793F519874}|src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.domain\\customers\\domainevents\\customercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3899D681-6C76-4D4A-AEC2-17793F519874}|src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj|solutionrelative:src\\services\\customer\\customer.domain\\customers\\domainevents\\customercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\buildingblocks\\sharedkernel\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3899D681-6C76-4D4A-AEC2-17793F519874}|src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.domain\\customers\\customeraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3899D681-6C76-4D4A-AEC2-17793F519874}|src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj|solutionrelative:src\\services\\customer\\customer.domain\\customers\\customeraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EB63748-DEAC-2BCD-E928-42DE2CCB841F}|src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj|c:\\projects\\corebanking.net\\src\\buildingblocks\\sharedkernel\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|solutionrelative:src\\services\\customer\\customer.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Projects\\CoreBanking.net\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE5382C-4A12-4365-9BBF-FFB4F0CAA2BB}|src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\customer\\customer.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0EF4D65-B78E-498D-A177-DFE30A41DC77}|src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj|solutionrelative:src\\services\\customer\\customer.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C3C2556-0910-4F95-B798-6EDC9484C707}|src\\Services\\Query\\Query.Api\\Query.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\query\\query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3C2556-0910-4F95-B798-6EDC9484C707}|src\\Services\\Query\\Query.Api\\Query.Api.csproj|solutionrelative:src\\services\\query\\query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0452AB7-A788-4332-968F-48D55E1C653C}|src\\Services\\Onboarding\\Onboarding.Api\\Onboarding.Api.csproj|c:\\projects\\corebanking.net\\src\\services\\onboarding\\onboarding.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -218,50 +222,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InMemoryCustomerRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs*",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "CustomersControllerTests.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Api.IntegrationTests\\Controllers\\CustomersControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Customer\\Customer.Api.IntegrationTests\\Controllers\\CustomersControllerTests.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Api.IntegrationTests\\Controllers\\CustomersControllerTests.cs",
+              "RelativeToolTip": "tests\\Customer\\Customer.Api.IntegrationTests\\Controllers\\CustomersControllerTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T01:53:01.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T01:45:21.531Z",
+              "WhenOpened": "2025-12-14T04:11:38.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Customer.Api.IntegrationTests",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj",
+              "RelativeToolTip": "tests\\Customer\\Customer.Api.IntegrationTests\\Customer.Api.IntegrationTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T04:08:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.Application.UnitTests",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj",
+              "RelativeDocumentMoniker": "tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj",
+              "RelativeToolTip": "tests\\Customer\\Customer.Application.UnitTests\\Customer.Application.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T03:05:19.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-13T22:23:08.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T20:25:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationBehaviorTests.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Application.UnitTests\\Common\\Behaviors\\ValidationBehaviorTests.cs",
+              "RelativeDocumentMoniker": "tests\\Customer\\Customer.Application.UnitTests\\Common\\Behaviors\\ValidationBehaviorTests.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Application.UnitTests\\Common\\Behaviors\\ValidationBehaviorTests.cs",
+              "RelativeToolTip": "tests\\Customer\\Customer.Application.UnitTests\\Common\\Behaviors\\ValidationBehaviorTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T03:43:19.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCustomerCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Application.UnitTests\\Customers\\Commands\\CreateCustomerCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Customer\\Customer.Application.UnitTests\\Customers\\Commands\\CreateCustomerCommandHandlerTests.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\tests\\Customer\\Customer.Application.UnitTests\\Customers\\Commands\\CreateCustomerCommandHandlerTests.cs",
+              "RelativeToolTip": "tests\\Customer\\Customer.Application.UnitTests\\Customers\\Commands\\CreateCustomerCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T03:03:28.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CreateCustomerCommandHandler.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandHandler.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandHandler.cs",
               "RelativeToolTip": "src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandHandler.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T22:42:05.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "CustomerCreatedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
+              "RelativeToolTip": "src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:12:20.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs",
+              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\DevOnly\\InMemoryCustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:53:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Abstractions\\Persistence\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Abstractions\\Persistence\\ICustomerRepository.cs",
@@ -274,46 +369,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Program.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T20:25:04.528Z",
+              "WhenOpened": "2025-12-14T01:45:21.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateCustomerCommand.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommand.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommand.cs",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:41:44.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCustomerCommandValidator.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Application\\Customers\\Command\\CreateCustomer\\CreateCustomerCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:41:56.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CreateCustomerRequest.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Contracts\\CreateCustomerRequest.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Contracts\\CreateCustomerRequest.cs",
@@ -326,33 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerCreatedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Domain\\Customers\\DomainEvents\\CustomerCreatedDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T23:12:20.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerAggregate.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\CustomerAggregate.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Domain\\Customers\\CustomerAggregate.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\CustomerAggregate.cs",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Domain\\Customers\\CustomerAggregate.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T23:11:33.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AggregateRoot.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\AggregateRoot.cs",
@@ -365,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CustomerStatus.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\Customers\\CustomerStatus.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Domain\\Customers\\CustomerStatus.cs",
@@ -378,20 +421,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\Entity.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:07:55.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IAggregateRoot.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\IAggregateRoot.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\IAggregateRoot.cs",
@@ -404,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
@@ -417,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Domain\\DependencyInjection.cs",
@@ -430,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\DependencyInjection.cs",
@@ -443,8 +486,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Customer.Application",
+              "DocumentIndex": 20,
+              "Title": "Customer.Application.csproj",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customer.Application.csproj",
@@ -457,24 +500,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Directory.Packages.props",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\Directory.Packages.props",
-              "RelativeDocumentMoniker": "Directory.Packages.props",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\Directory.Packages.props",
-              "RelativeToolTip": "Directory.Packages.props",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-13T22:23:08.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Customer.Api",
+              "Title": "Customer.Api.csproj",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj*",
-              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj*",
+              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj",
+              "RelativeToolTip": "src\\Services\\Customer\\Customer.Api\\Customer.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-13T22:51:45.067Z",
@@ -482,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Common\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Common\\Behaviors\\ValidationBehavior.cs",
@@ -495,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\ValidationException.cs",
@@ -508,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "CustomerDto.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Dtos\\CustomerDto.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customers\\Dtos\\CustomerDto.cs",
@@ -521,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Abstractions\\Persistence\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Abstractions\\Persistence\\IUnitOfWork.cs",
@@ -534,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ICustomerReadOnlyRepository.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Abstractions\\Persistence\\ICustomerReadOnlyRepository.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Abstractions\\Persistence\\ICustomerReadOnlyRepository.cs",
@@ -547,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "GetCustomerByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQueryHandler.cs",
@@ -560,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "GetCustomerByIdQuery.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Application\\Customers\\Queries\\GetCustomerById\\GetCustomerByIdQuery.cs",
@@ -573,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Ledger\\Ledger.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Ledger\\Ledger.Api\\Program.cs",
@@ -586,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Onboarding\\Onboarding.Api\\Program.cs",
@@ -599,33 +629,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Query\\Query.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Query\\Query.Api\\Program.cs",
-              "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Query\\Query.Api\\Program.cs",
-              "RelativeToolTip": "src\\Services\\Query\\Query.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T20:53:19.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel.Web\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T21:41:58.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Account\\Account.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Account\\Account.Api\\Program.cs",
@@ -638,20 +655,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Exceptions\\DomainException.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:09:30.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer\\Customer.Api\\Controllers\\TestController.cs",
@@ -664,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Api\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\Api\\ServiceCollectionExtensions.cs",
@@ -677,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ApiControllerBase.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Api\\ApiControllerBase.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\Api\\ApiControllerBase.cs",
@@ -690,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "ApiError.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Api\\ApiError.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\Api\\ApiError.cs",
@@ -703,8 +720,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Onboarding.Api",
+              "DocumentIndex": 42,
+              "Title": "Onboarding.Api.csproj",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Api\\Onboarding.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Onboarding\\Onboarding.Api\\Onboarding.Api.csproj",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Api\\Onboarding.Api.csproj",
@@ -716,8 +733,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Query.Api",
+              "DocumentIndex": 41,
+              "Title": "Query.Api.csproj",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Query\\Query.Api\\Query.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Query\\Query.Api\\Query.Api.csproj",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Query\\Query.Api\\Query.Api.csproj",
@@ -729,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Api\\ApiResponse.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\Api\\ApiResponse.cs",
@@ -742,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ErrorCodes.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\Api\\ErrorCodes.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\Api\\ErrorCodes.cs",
@@ -755,8 +772,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Account.Api",
+              "DocumentIndex": 40,
+              "Title": "Account.Api.csproj",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\Services\\Account\\Account.Api\\Account.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Account\\Account.Api\\Account.Api.csproj",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\Services\\Account\\Account.Api\\Account.Api.csproj",
@@ -768,8 +785,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "SharedKernel.Web",
+              "DocumentIndex": 43,
+              "Title": "SharedKernel.Web.csproj",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\SharedKernel.Web.csproj",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel.Web\\SharedKernel.Web.csproj",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web\\SharedKernel.Web.csproj",
@@ -781,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "SharedKernel",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
@@ -793,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Money.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Money.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Money.cs",
@@ -806,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Address.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Address.cs",
@@ -819,33 +836,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "PhoneNumber.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PhoneNumber.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:10:13.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\Email.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:10:06.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "IntegrationEvent.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Messaging\\IntegrationEvents\\IntegrationEvent.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Messaging\\IntegrationEvents\\IntegrationEvent.cs",
@@ -858,20 +875,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ValueObject.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
               "ToolTip": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
               "RelativeToolTip": "src\\BuildingBlocks\\SharedKernel\\Domain\\Primitives\\ValueObject.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T05:59:20.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "PersonName.cs",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\SharedKernel\\ValueObjects\\PersonName.cs",
@@ -884,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Directory.Build.props",
               "DocumentMoniker": "C:\\Projects\\CoreBanking.net\\Directory.Build.props",
               "RelativeDocumentMoniker": "Directory.Build.props",
