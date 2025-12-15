@@ -2,6 +2,7 @@
 using Customer.Api.DevOnly;
 using Customer.Application;
 using Customer.Application.Abstractions.Persistence;
+using Customer.Infrastructure;
 using SharedKernel.Web.Api;
 
 namespace Customer.Api
@@ -18,6 +19,7 @@ namespace Customer.Api
             builder.Services.AddControllers();
             builder.Services.AddTransient<ExceptionHandlingMiddleware>();
             builder.Services.AddCustomerApplication();
+            builder.Services.AddCustomerInfrastructure(builder.Configuration);
             builder.Services.AddSingleton<InMemoryCustomerRepository>();
 
             builder.Services.AddSingleton<ICustomerRepository>(sp => sp.GetRequiredService<InMemoryCustomerRepository>());

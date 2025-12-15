@@ -10,3 +10,15 @@ C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\De
 C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\refint\Customer.Infrastructure.dll
 C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.pdb
 C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\ref\Customer.Infrastructure.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Infrastructure.runtimeconfig.json
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Application.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\SharedKernel.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\SharedKernel.Web.dll
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\SharedKernel.pdb
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Application.pdb
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\Customer.Domain.pdb
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\bin\Debug\net8.0\SharedKernel.Web.pdb
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.AF361249.Up2Date
+C:\Projects\CoreBanking.net\src\Services\Customer\Customer.Infrastructure\obj\Debug\net8.0\Customer.Infrastructure.genruntimeconfig.cache

@@ -2,6 +2,7 @@
   "Customer.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Api",
   "Customer.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Application",
   "Customer.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Domain",
+  "Customer.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projects\\CoreBanking.net\\src\\Services\\Customer\\Customer.Infrastructure",
   "SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel",
   "SharedKernel.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Web"
 }

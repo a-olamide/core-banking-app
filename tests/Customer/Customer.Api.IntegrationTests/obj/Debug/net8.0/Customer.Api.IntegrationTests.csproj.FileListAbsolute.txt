@@ -333,3 +333,5 @@ C:\Projects\CoreBanking.net\tests\Customer\Customer.Api.IntegrationTests\obj\Deb
 C:\Projects\CoreBanking.net\tests\Customer\Customer.Api.IntegrationTests\obj\Debug\net8.0\Customer.Api.IntegrationTests.pdb
 C:\Projects\CoreBanking.net\tests\Customer\Customer.Api.IntegrationTests\obj\Debug\net8.0\Customer.Api.IntegrationTests.genruntimeconfig.cache
 C:\Projects\CoreBanking.net\tests\Customer\Customer.Api.IntegrationTests\obj\Debug\net8.0\ref\Customer.Api.IntegrationTests.dll
+C:\Projects\CoreBanking.net\tests\Customer\Customer.Api.IntegrationTests\bin\Debug\net8.0\Customer.Infrastructure.dll
+C:\Projects\CoreBanking.net\tests\Customer\Customer.Api.IntegrationTests\bin\Debug\net8.0\Customer.Infrastructure.pdb
