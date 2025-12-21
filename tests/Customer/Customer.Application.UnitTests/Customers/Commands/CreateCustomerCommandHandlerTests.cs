@@ -3,6 +3,7 @@ using Customer.Application.Customers.Command.CreateCustomer;
 using Customer.Domain.Customers;
 using FluentAssertions;
 using Moq;
+using SharedKernel.Api;
 using SharedKernel.Domain.Exceptions;
 using SharedKernel.Web.Api;
 

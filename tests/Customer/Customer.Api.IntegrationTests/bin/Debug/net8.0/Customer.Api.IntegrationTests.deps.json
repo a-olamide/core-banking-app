@@ -2177,6 +2177,8 @@
       },
       "SharedKernel.Web/1.0.0": {
         "dependencies": {
+          "Microsoft.Data.SqlClient": "5.1.6",
+          "Microsoft.EntityFrameworkCore": "8.0.22",
           "SharedKernel": "1.0.0"
         },
         "runtime": {

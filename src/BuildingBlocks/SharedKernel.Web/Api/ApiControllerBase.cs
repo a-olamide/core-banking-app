@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SharedKernel.Api;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -73,7 +73,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -110,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -167,7 +166,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -201,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -286,7 +284,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -323,7 +320,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -407,7 +404,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -441,7 +437,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -502,7 +498,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -536,7 +531,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -629,7 +624,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -663,7 +657,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -751,7 +745,6 @@
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
             "MediatR": "14.0.0",
-            "MediatR.Extensions.Microsoft.DependencyInjection": "12.1.1",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",
             "Microsoft.EntityFrameworkCore": "8.0.22",
@@ -785,7 +778,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

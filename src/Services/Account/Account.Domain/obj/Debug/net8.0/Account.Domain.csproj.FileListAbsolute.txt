@@ -14,3 +14,5 @@ C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0
 C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\refint\Account.Domain.dll
 C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\Account.Domain.pdb
 C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\obj\Debug\net8.0\ref\Account.Domain.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\SharedKernel.Web.dll
+C:\Projects\CoreBanking.net\src\Services\Account\Account.Domain\bin\Debug\net8.0\SharedKernel.Web.pdb

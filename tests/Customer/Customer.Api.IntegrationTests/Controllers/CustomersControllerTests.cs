@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Moq;
+using SharedKernel.Api;
 using SharedKernel.Web.Api;
 using System;
 using System.Collections.Generic;

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using SharedKernel.Api;
 using SharedKernel.Domain.Exceptions;
 using System;
 using System.Collections.Generic;
@@ -58,8 +59,8 @@ namespace SharedKernel.Web.Api
                 await WriteError(
                     context,
                     HttpStatusCode.Conflict,
-                    ErrorCodes.CustomerEmailAlreadyExists,
-                    "Email already exists.");
+                    ErrorCodes.Conflict,
+                    "A resource with these values already exists.");
             }
 
             catch (Exception)

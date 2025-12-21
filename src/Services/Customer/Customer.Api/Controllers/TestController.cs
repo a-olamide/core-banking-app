@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SharedKernel.Web.Api;
 using SharedKernel.Domain.Exceptions;
+using SharedKernel.Api;
 
 namespace Customer.Api.Controllers
 {

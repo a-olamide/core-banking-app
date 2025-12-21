@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Application.UnitTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Api.IntegrationTests", "tests\Customer\Customer.Api.IntegrationTests\Customer.Api.IntegrationTests.csproj", "{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Account", "Account", "{78D84A1F-5D8B-4BF7-A8C7-9C97A6337F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Api.IntegrationTests", "tests\Account.Api.IntegrationTests\Account.Api.IntegrationTests.csproj", "{D1B1D381-27C7-4E48-B588-EC084F28C084}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +183,10 @@ Global
 		{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B1D381-27C7-4E48-B588-EC084F28C084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B1D381-27C7-4E48-B588-EC084F28C084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B1D381-27C7-4E48-B588-EC084F28C084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B1D381-27C7-4E48-B588-EC084F28C084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -216,6 +224,8 @@ Global
 		{4D6661D3-934C-45E6-9DB5-542DBE4235D3} = {81A4D999-CD1B-4768-AFD3-491297772AB1}
 		{F63A72E6-9FB9-4422-AF84-4FA81A725823} = {4D6661D3-934C-45E6-9DB5-542DBE4235D3}
 		{D9BE1654-6A4C-4AD9-AE0A-AF5A582677B0} = {4D6661D3-934C-45E6-9DB5-542DBE4235D3}
+		{78D84A1F-5D8B-4BF7-A8C7-9C97A6337F3D} = {81A4D999-CD1B-4768-AFD3-491297772AB1}
+		{D1B1D381-27C7-4E48-B588-EC084F28C084} = {78D84A1F-5D8B-4BF7-A8C7-9C97A6337F3D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {01841F87-EF4C-4993-AC5D-65E951BB049B}

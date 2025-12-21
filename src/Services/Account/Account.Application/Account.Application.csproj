@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+    <PackageReference Include="MediatR" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\..\BuildingBlocks\SharedKernel\SharedKernel.csproj" />
+    <ProjectReference Include="..\Account.Domain\Account.Domain.csproj" />
   </ItemGroup>
 
 </Project>

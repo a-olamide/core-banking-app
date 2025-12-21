@@ -2,6 +2,7 @@
 using Customer.Application.Customers.Dtos;
 using Customer.Domain.Customers;
 using MediatR;
+using SharedKernel.Api;
 using SharedKernel.Domain.Exceptions;
 using SharedKernel.ValueObjects;
 using SharedKernel.Web.Api;
