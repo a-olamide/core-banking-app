@@ -1,6 +1,8 @@
 
+using Account.Api.Consumers;
 using Account.Application;
 using Account.Infrastructure;
+using MassTransit;
 using Microsoft.OpenApi.Models;
 using SharedKernel.Web.Api;
 using System.Text.Json.Serialization;
@@ -28,6 +30,18 @@ namespace Account.Api
             builder.Services.AddAccountApplication();
             builder.Services.AddAccountInfrastructure(builder.Configuration);
 
+            builder.Services.AddMassTransit(x =>
+            {
+                x.SetKebabCaseEndpointNameFormatter();
+
+                x.AddConsumer<OpenAccountCommandConsumer>();
+
+                x.UsingAzureServiceBus((context, cfg) =>
+                {
+                    cfg.Host(builder.Configuration["AzureServiceBus:ConnectionString"]);
+                    cfg.ConfigureEndpoints(context);
+                });
+            });
             // Shared middleware
             builder.Services.AddTransient<ExceptionHandlingMiddleware>();
 

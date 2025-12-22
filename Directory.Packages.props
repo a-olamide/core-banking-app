@@ -12,7 +12,6 @@
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.22" />
     <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
     <PackageVersion Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
-    <PackageVersion Include="Moq" Version="4.20.72" />
     <PackageVersion Include="Swashbuckle.AspNetCore" Version="8.1.4" />
   </ItemGroup>
   <!-- Observability -->
@@ -28,10 +27,18 @@
     <PackageVersion Include="FluentValidation" Version="12.1.1" />
     <PackageVersion Include="FluentValidation.DependencyInjectionExtensions" Version="11.8.0" />
   </ItemGroup>
-  <!-- Unit testing -->
+  <!-- Unit & Integration testing -->
   <ItemGroup>
     <PackageVersion Include="xunit" Version="2.5.3" />
     <PackageVersion Include="FluentAssertions" Version="8.8.0" />
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.5.3" />
+    <PackageVersion Include="Moq" Version="4.20.72" />
+  </ItemGroup>
+  <!-- Messaging -->
+  <ItemGroup>
+    <PackageVersion Include="MassTransit" Version="8.3.6" />
+    <PackageVersion Include="MassTransit.Azure.ServiceBus.Core" Version="8.3.6" />
+    <PackageVersion Include="MassTransit.AspNetCore" Version="7.3.1" />
+    <PackageVersion Include="MassTransit.EntityFrameworkCore" Version="8.3.6" />
   </ItemGroup>
 </Project>

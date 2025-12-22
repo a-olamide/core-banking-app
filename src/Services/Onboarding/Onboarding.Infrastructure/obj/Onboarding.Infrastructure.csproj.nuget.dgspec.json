@@ -4,14 +4,14 @@
     "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj": {
+    "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Messaging\\SharedKernel.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj",
-        "projectName": "Onboarding.Infrastructure",
-        "projectPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Messaging\\SharedKernel.Messaging.csproj",
+        "projectName": "SharedKernel.Messaging",
+        "projectPath": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Messaging\\SharedKernel.Messaging.csproj",
         "packagesPath": "C:\\Users\\aolam\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -56,6 +56,335 @@
             "FluentAssertions": "8.8.0",
             "FluentValidation": "12.1.1",
             "FluentValidation.DependencyInjectionExtensions": "11.8.0",
+            "MassTransit": "8.3.6",
+            "MassTransit.AspNetCore": "7.3.1",
+            "MassTransit.Azure.ServiceBus.Core": "8.3.6",
+            "MassTransit.EntityFrameworkCore": "8.3.6",
+            "MediatR": "14.0.0",
+            "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
+            "Microsoft.Data.SqlClient": "5.1.6",
+            "Microsoft.EntityFrameworkCore": "8.0.22",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.22",
+            "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22",
+            "Microsoft.EntityFrameworkCore.Tools": "8.0.22",
+            "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
+            "Moq": "4.20.72",
+            "OpenTelemetry.Extensions.Hosting": "1.8.0",
+            "Serilog.AspNetCore": "8.0.0",
+            "Serilog.Sinks.Console": "5.0.1",
+            "Serilog.Sinks.Seq": "5.2.2",
+            "Swashbuckle.AspNetCore": "8.1.4",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
+        "projectName": "SharedKernel",
+        "projectPath": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\aolam\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aolam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "FluentAssertions": "8.8.0",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.DependencyInjectionExtensions": "11.8.0",
+            "MassTransit": "8.3.6",
+            "MassTransit.AspNetCore": "7.3.1",
+            "MassTransit.Azure.ServiceBus.Core": "8.3.6",
+            "MassTransit.EntityFrameworkCore": "8.3.6",
+            "MediatR": "14.0.0",
+            "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
+            "Microsoft.Data.SqlClient": "5.1.6",
+            "Microsoft.EntityFrameworkCore": "8.0.22",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.22",
+            "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22",
+            "Microsoft.EntityFrameworkCore.Tools": "8.0.22",
+            "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
+            "Moq": "4.20.72",
+            "OpenTelemetry.Extensions.Hosting": "1.8.0",
+            "Serilog.AspNetCore": "8.0.0",
+            "Serilog.Sinks.Console": "5.0.1",
+            "Serilog.Sinks.Seq": "5.2.2",
+            "Swashbuckle.AspNetCore": "8.1.4",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Domain\\Onboarding.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Domain\\Onboarding.Domain.csproj",
+        "projectName": "Onboarding.Domain",
+        "projectPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Domain\\Onboarding.Domain.csproj",
+        "packagesPath": "C:\\Users\\aolam\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aolam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "FluentAssertions": "8.8.0",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.DependencyInjectionExtensions": "11.8.0",
+            "MassTransit": "8.3.6",
+            "MassTransit.AspNetCore": "7.3.1",
+            "MassTransit.Azure.ServiceBus.Core": "8.3.6",
+            "MassTransit.EntityFrameworkCore": "8.3.6",
+            "MediatR": "14.0.0",
+            "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
+            "Microsoft.Data.SqlClient": "5.1.6",
+            "Microsoft.EntityFrameworkCore": "8.0.22",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.22",
+            "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22",
+            "Microsoft.EntityFrameworkCore.Tools": "8.0.22",
+            "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
+            "Moq": "4.20.72",
+            "OpenTelemetry.Extensions.Hosting": "1.8.0",
+            "Serilog.AspNetCore": "8.0.0",
+            "Serilog.Sinks.Console": "5.0.1",
+            "Serilog.Sinks.Seq": "5.2.2",
+            "Swashbuckle.AspNetCore": "8.1.4",
+            "xunit": "2.5.3",
+            "xunit.runner.visualstudio": "2.5.3"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj",
+        "projectName": "Onboarding.Infrastructure",
+        "projectPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\Onboarding.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\aolam\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aolam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Messaging\\SharedKernel.Messaging.csproj": {
+                "projectPath": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel.Messaging\\SharedKernel.Messaging.csproj"
+              },
+              "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj": {
+                "projectPath": "C:\\Projects\\CoreBanking.net\\src\\BuildingBlocks\\SharedKernel\\SharedKernel.csproj"
+              },
+              "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Domain\\Onboarding.Domain.csproj": {
+                "projectPath": "C:\\Projects\\CoreBanking.net\\src\\Services\\Onboarding\\Onboarding.Domain\\Onboarding.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.6, )",
+              "versionCentrallyManaged": true
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MassTransit.Azure.ServiceBus.Core": {
+              "target": "Package",
+              "version": "[8.3.6, )",
+              "versionCentrallyManaged": true
+            },
+            "MassTransit.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.3.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.22, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.22, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "FluentAssertions": "8.8.0",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.DependencyInjectionExtensions": "11.8.0",
+            "MassTransit": "8.3.6",
+            "MassTransit.AspNetCore": "7.3.1",
+            "MassTransit.Azure.ServiceBus.Core": "8.3.6",
+            "MassTransit.EntityFrameworkCore": "8.3.6",
             "MediatR": "14.0.0",
             "Microsoft.AspNetCore.Mvc.Testing": "8.0.22",
             "Microsoft.Data.SqlClient": "5.1.6",

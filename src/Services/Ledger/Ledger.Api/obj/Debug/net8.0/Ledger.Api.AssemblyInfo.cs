@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ledger.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8932a7d788b70525c0604a906c5303f3911de681")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12168562dca1b3c1a0c4c5c73fb7443e71472590")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ledger.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ledger.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

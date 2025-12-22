@@ -13,7 +13,7 @@ namespace Account.Application.Accounts.Commands.OpenAccount
         {
             RuleFor(x => x.CustomerId).NotEmpty();
             RuleFor(x => x.Currency).NotEmpty().Length(3);
-            RuleFor(x => x.AccountType).InclusiveBetween(1, 2); // Savings/Current for now
+            RuleFor(x => x.AccountType).InclusiveBetween(1, 2); // Savings/Current
         }
     }
 }

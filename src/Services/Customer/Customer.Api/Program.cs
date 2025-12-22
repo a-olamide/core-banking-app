@@ -1,8 +1,10 @@
 
+using Customer.Api.Consumers;
 using Customer.Api.DevOnly;
 using Customer.Application;
 using Customer.Application.Abstractions.Persistence;
 using Customer.Infrastructure;
+using MassTransit;
 using SharedKernel.Web.Api;
 
 namespace Customer.Api
@@ -26,6 +28,21 @@ namespace Customer.Api
             builder.Services.AddSingleton<ICustomerReadOnlyRepository>(sp => sp.GetRequiredService<InMemoryCustomerRepository>());
             builder.Services.AddSingleton<IUnitOfWork>(sp => sp.GetRequiredService<InMemoryCustomerRepository>());
 
+
+            builder.Services.AddMassTransit(x =>
+            {
+                x.SetKebabCaseEndpointNameFormatter();
+
+                x.AddConsumer<CreateCustomerCommandConsumer>();
+
+                x.UsingAzureServiceBus((context, cfg) =>
+                {
+                    cfg.Host(builder.Configuration["AzureServiceBus:ConnectionString"]);
+
+                    // For commands: queue endpoints per consumer
+                    cfg.ConfigureEndpoints(context);
+                });
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
